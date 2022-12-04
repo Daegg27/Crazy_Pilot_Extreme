@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5fee1d96bef99f43869cab36b6fc7cc, type: 3}
+  m_Name: B-17AddOn
+  m_EditorClassIdentifier: 
+  lowerGunner: {fileID: 4300008, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  roofGunner: {fileID: 4300014, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  backWheel: {fileID: 4300004, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  leftWheel: {fileID: 4300002, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  rightWheel: {fileID: 4300006, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  leftPropeller: {fileID: 4300012, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  centerLeftPropeller: {fileID: 4300010, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  centerRightPropeller: {fileID: 4300018, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}
+  rightPropeller: {fileID: 4300016, guid: 6eee36b8d8449a84a890b3defef058dd, type: 3}

@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: 2d0d28008a8f8ec4195afcc90b305a4d
+timeCreated: 1528440187
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A10
+    100004: Armature
+    100006: FrontTire
+    100008: FrontTire_end
+    100010: FrontTireCover
+    100012: FrontTireCover_end
+    100014: LeftAileron
+    100016: LeftAileron_end
+    100018: LeftHorzStablizer
+    100020: LeftHorzStablizer_end
+    100022: LeftRudder
+    100024: LeftRudder_end
+    100026: LeftTire
+    100028: LeftTire_end
+    100030: LeftTireCover
+    100032: LeftTireCover_end
+    100034: RightAileron
+    100036: RightAileron_end
+    100038: RightHorzStablizer
+    100040: RightHorzStablizer_end
+    100042: RightRudder
+    100044: RightRudder_end
+    100046: RightTire
+    100048: RightTire_end
+    100050: RightTireCover
+    100052: RightTireCover_end
+    100054: Root
+    100056: Root_end
+    100058: Pivot_Center
+    100060: Pivot_L1
+    100062: Pivot_L2
+    100064: Pivot_L3A
+    100066: Pivot_L3B
+    100068: Pivot_L3C
+    100070: Pivot_L4
+    100072: Pivot_L5
+    100074: Pivot_R1
+    100076: Pivot_R2
+    100078: Pivot_R3A
+    100080: Pivot_R3B
+    100082: Pivot_R3C
+    100084: Pivot_R4
+    100086: Pivot_R5
+    400000: //RootNode
+    400002: A10
+    400004: Armature
+    400006: FrontTire
+    400008: FrontTire_end
+    400010: FrontTireCover
+    400012: FrontTireCover_end
+    400014: LeftAileron
+    400016: LeftAileron_end
+    400018: LeftHorzStablizer
+    400020: LeftHorzStablizer_end
+    400022: LeftRudder
+    400024: LeftRudder_end
+    400026: LeftTire
+    400028: LeftTire_end
+    400030: LeftTireCover
+    400032: LeftTireCover_end
+    400034: RightAileron
+    400036: RightAileron_end
+    400038: RightHorzStablizer
+    400040: RightHorzStablizer_end
+    400042: RightRudder
+    400044: RightRudder_end
+    400046: RightTire
+    400048: RightTire_end
+    400050: RightTireCover
+    400052: RightTireCover_end
+    400054: Root
+    400056: Root_end
+    400058: Pivot_Center
+    400060: Pivot_L1
+    400062: Pivot_L2
+    400064: Pivot_L3A
+    400066: Pivot_L3B
+    400068: Pivot_L3C
+    400070: Pivot_L4
+    400072: Pivot_L5
+    400074: Pivot_R1
+    400076: Pivot_R2
+    400078: Pivot_R3A
+    400080: Pivot_R3B
+    400082: Pivot_R3C
+    400084: Pivot_R4
+    400086: Pivot_R5
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: A10
+    7400000: _Default
+    7400002: Idle
+    7400004: IdleGrounded
+    7400006: TiresIn
+    7400008: TiresOut
+    9500000: //RootNode
+    13700000: A10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _Default
+      takeName: Armature|_Default
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A10
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FrontTire
+        weight: 1
+      - path: Armature/FrontTire/FrontTire_end
+        weight: 1
+      - path: Armature/FrontTireCover
+        weight: 1
+      - path: Armature/FrontTireCover/FrontTireCover_end
+        weight: 1
+      - path: Armature/LeftAileron
+        weight: 1
+      - path: Armature/LeftAileron/LeftAileron_end
+        weight: 1
+      - path: Armature/LeftHorzStablizer
+        weight: 1
+      - path: Armature/LeftHorzStablizer/LeftHorzStablizer_end
+        weight: 1
+      - path: Armature/LeftRudder
+        weight: 1
+      - path: Armature/LeftRudder/LeftRudder_end
+        weight: 1
+      - path: Armature/LeftTire
+        weight: 1
+      - path: Armature/LeftTire/LeftTire_end
+        weight: 1
+      - path: Armature/LeftTireCover
+        weight: 1
+      - path: Armature/LeftTireCover/LeftTireCover_end
+        weight: 1
+      - path: Armature/RightAileron
+        weight: 1
+      - path: Armature/RightAileron/RightAileron_end
+        weight: 1
+      - path: Armature/RightHorzStablizer
+        weight: 1
+      - path: Armature/RightHorzStablizer/RightHorzStablizer_end
+        weight: 1
+      - path: Armature/RightRudder
+        weight: 1
+      - path: Armature/RightRudder/RightRudder_end
+        weight: 1
+      - path: Armature/RightTire
+        weight: 1
+      - path: Armature/RightTire/RightTire_end
+        weight: 1
+      - path: Armature/RightTireCover
+        weight: 1
+      - path: Armature/RightTireCover/RightTireCover_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Root_end
+        weight: 1
+      - path: Pivot_Center
+        weight: 1
+      - path: Pivot_L1
+        weight: 1
+      - path: Pivot_L2
+        weight: 1
+      - path: Pivot_L3A
+        weight: 1
+      - path: Pivot_L3B
+        weight: 1
+      - path: Pivot_L3C
+        weight: 1
+      - path: Pivot_L4
+        weight: 1
+      - path: Pivot_L5
+        weight: 1
+      - path: Pivot_R1
+        weight: 1
+      - path: Pivot_R2
+        weight: 1
+      - path: Pivot_R3A
+        weight: 1
+      - path: Pivot_R3B
+        weight: 1
+      - path: Pivot_R3C
+        weight: 1
+      - path: Pivot_R4
+        weight: 1
+      - path: Pivot_R5
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A10
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FrontTire
+        weight: 1
+      - path: Armature/FrontTire/FrontTire_end
+        weight: 1
+      - path: Armature/FrontTireCover
+        weight: 1
+      - path: Armature/FrontTireCover/FrontTireCover_end
+        weight: 1
+      - path: Armature/LeftAileron
+        weight: 1
+      - path: Armature/LeftAileron/LeftAileron_end
+        weight: 1
+      - path: Armature/LeftHorzStablizer
+        weight: 1
+      - path: Armature/LeftHorzStablizer/LeftHorzStablizer_end
+        weight: 1
+      - path: Armature/LeftRudder
+        weight: 1
+      - path: Armature/LeftRudder/LeftRudder_end
+        weight: 1
+      - path: Armature/LeftTire
+        weight: 1
+      - path: Armature/LeftTire/LeftTire_end
+        weight: 1
+      - path: Armature/LeftTireCover
+        weight: 1
+      - path: Armature/LeftTireCover/LeftTireCover_end
+        weight: 1
+      - path: Armature/RightAileron
+        weight: 1
+      - path: Armature/RightAileron/RightAileron_end
+        weight: 1
+      - path: Armature/RightHorzStablizer
+        weight: 1
+      - path: Armature/RightHorzStablizer/RightHorzStablizer_end
+        weight: 1
+      - path: Armature/RightRudder
+        weight: 1
+      - path: Armature/RightRudder/RightRudder_end
+        weight: 1
+      - path: Armature/RightTire
+        weight: 1
+      - path: Armature/RightTire/RightTire_end
+        weight: 1
+      - path: Armature/RightTireCover
+        weight: 1
+      - path: Armature/RightTireCover/RightTireCover_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Root_end
+        weight: 1
+      - path: Pivot_Center
+        weight: 1
+      - path: Pivot_L1
+        weight: 1
+      - path: Pivot_L2
+        weight: 1
+      - path: Pivot_L3A
+        weight: 1
+      - path: Pivot_L3B
+        weight: 1
+      - path: Pivot_L3C
+        weight: 1
+      - path: Pivot_L4
+        weight: 1
+      - path: Pivot_L5
+        weight: 1
+      - path: Pivot_R1
+        weight: 1
+      - path: Pivot_R2
+        weight: 1
+      - path: Pivot_R3A
+        weight: 1
+      - path: Pivot_R3B
+        weight: 1
+      - path: Pivot_R3C
+        weight: 1
+      - path: Pivot_R4
+        weight: 1
+      - path: Pivot_R5
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleGrounded
+      takeName: Armature|IdleGrounded
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A10
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FrontTire
+        weight: 1
+      - path: Armature/FrontTire/FrontTire_end
+        weight: 1
+      - path: Armature/FrontTireCover
+        weight: 1
+      - path: Armature/FrontTireCover/FrontTireCover_end
+        weight: 1
+      - path: Armature/LeftAileron
+        weight: 1
+      - path: Armature/LeftAileron/LeftAileron_end
+        weight: 1
+      - path: Armature/LeftHorzStablizer
+        weight: 1
+      - path: Armature/LeftHorzStablizer/LeftHorzStablizer_end
+        weight: 1
+      - path: Armature/LeftRudder
+        weight: 1
+      - path: Armature/LeftRudder/LeftRudder_end
+        weight: 1
+      - path: Armature/LeftTire
+        weight: 1
+      - path: Armature/LeftTire/LeftTire_end
+        weight: 1
+      - path: Armature/LeftTireCover
+        weight: 1
+      - path: Armature/LeftTireCover/LeftTireCover_end
+        weight: 1
+      - path: Armature/RightAileron
+        weight: 1
+      - path: Armature/RightAileron/RightAileron_end
+        weight: 1
+      - path: Armature/RightHorzStablizer
+        weight: 1
+      - path: Armature/RightHorzStablizer/RightHorzStablizer_end
+        weight: 1
+      - path: Armature/RightRudder
+        weight: 1
+      - path: Armature/RightRudder/RightRudder_end
+        weight: 1
+      - path: Armature/RightTire
+        weight: 1
+      - path: Armature/RightTire/RightTire_end
+        weight: 1
+      - path: Armature/RightTireCover
+        weight: 1
+      - path: Armature/RightTireCover/RightTireCover_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Root_end
+        weight: 1
+      - path: Pivot_Center
+        weight: 1
+      - path: Pivot_L1
+        weight: 1
+      - path: Pivot_L2
+        weight: 1
+      - path: Pivot_L3A
+        weight: 1
+      - path: Pivot_L3B
+        weight: 1
+      - path: Pivot_L3C
+        weight: 1
+      - path: Pivot_L4
+        weight: 1
+      - path: Pivot_L5
+        weight: 1
+      - path: Pivot_R1
+        weight: 1
+      - path: Pivot_R2
+        weight: 1
+      - path: Pivot_R3A
+        weight: 1
+      - path: Pivot_R3B
+        weight: 1
+      - path: Pivot_R3C
+        weight: 1
+      - path: Pivot_R4
+        weight: 1
+      - path: Pivot_R5
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TiresIn
+      takeName: Armature|TiresIn
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A10
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FrontTire
+        weight: 1
+      - path: Armature/FrontTire/FrontTire_end
+        weight: 1
+      - path: Armature/FrontTireCover
+        weight: 1
+      - path: Armature/FrontTireCover/FrontTireCover_end
+        weight: 1
+      - path: Armature/LeftAileron
+        weight: 1
+      - path: Armature/LeftAileron/LeftAileron_end
+        weight: 1
+      - path: Armature/LeftHorzStablizer
+        weight: 1
+      - path: Armature/LeftHorzStablizer/LeftHorzStablizer_end
+        weight: 1
+      - path: Armature/LeftRudder
+        weight: 1
+      - path: Armature/LeftRudder/LeftRudder_end
+        weight: 1
+      - path: Armature/LeftTire
+        weight: 1
+      - path: Armature/LeftTire/LeftTire_end
+        weight: 1
+      - path: Armature/LeftTireCover
+        weight: 1
+      - path: Armature/LeftTireCover/LeftTireCover_end
+        weight: 1
+      - path: Armature/RightAileron
+        weight: 1
+      - path: Armature/RightAileron/RightAileron_end
+        weight: 1
+      - path: Armature/RightHorzStablizer
+        weight: 1
+      - path: Armature/RightHorzStablizer/RightHorzStablizer_end
+        weight: 1
+      - path: Armature/RightRudder
+        weight: 1
+      - path: Armature/RightRudder/RightRudder_end
+        weight: 1
+      - path: Armature/RightTire
+        weight: 1
+      - path: Armature/RightTire/RightTire_end
+        weight: 1
+      - path: Armature/RightTireCover
+        weight: 1
+      - path: Armature/RightTireCover/RightTireCover_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Root_end
+        weight: 1
+      - path: Pivot_Center
+        weight: 1
+      - path: Pivot_L1
+        weight: 1
+      - path: Pivot_L2
+        weight: 1
+      - path: Pivot_L3A
+        weight: 1
+      - path: Pivot_L3B
+        weight: 1
+      - path: Pivot_L3C
+        weight: 1
+      - path: Pivot_L4
+        weight: 1
+      - path: Pivot_L5
+        weight: 1
+      - path: Pivot_R1
+        weight: 1
+      - path: Pivot_R2
+        weight: 1
+      - path: Pivot_R3A
+        weight: 1
+      - path: Pivot_R3B
+        weight: 1
+      - path: Pivot_R3C
+        weight: 1
+      - path: Pivot_R4
+        weight: 1
+      - path: Pivot_R5
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TiresOut
+      takeName: Armature|TiresOut
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A10
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FrontTire
+        weight: 1
+      - path: Armature/FrontTire/FrontTire_end
+        weight: 1
+      - path: Armature/FrontTireCover
+        weight: 1
+      - path: Armature/FrontTireCover/FrontTireCover_end
+        weight: 1
+      - path: Armature/LeftAileron
+        weight: 1
+      - path: Armature/LeftAileron/LeftAileron_end
+        weight: 1
+      - path: Armature/LeftHorzStablizer
+        weight: 1
+      - path: Armature/LeftHorzStablizer/LeftHorzStablizer_end
+        weight: 1
+      - path: Armature/LeftRudder
+        weight: 1
+      - path: Armature/LeftRudder/LeftRudder_end
+        weight: 1
+      - path: Armature/LeftTire
+        weight: 1
+      - path: Armature/LeftTire/LeftTire_end
+        weight: 1
+      - path: Armature/LeftTireCover
+        weight: 1
+      - path: Armature/LeftTireCover/LeftTireCover_end
+        weight: 1
+      - path: Armature/RightAileron
+        weight: 1
+      - path: Armature/RightAileron/RightAileron_end
+        weight: 1
+      - path: Armature/RightHorzStablizer
+        weight: 1
+      - path: Armature/RightHorzStablizer/RightHorzStablizer_end
+        weight: 1
+      - path: Armature/RightRudder
+        weight: 1
+      - path: Armature/RightRudder/RightRudder_end
+        weight: 1
+      - path: Armature/RightTire
+        weight: 1
+      - path: Armature/RightTire/RightTire_end
+        weight: 1
+      - path: Armature/RightTireCover
+        weight: 1
+      - path: Armature/RightTireCover/RightTireCover_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Root_end
+        weight: 1
+      - path: Pivot_Center
+        weight: 1
+      - path: Pivot_L1
+        weight: 1
+      - path: Pivot_L2
+        weight: 1
+      - path: Pivot_L3A
+        weight: 1
+      - path: Pivot_L3B
+        weight: 1
+      - path: Pivot_L3C
+        weight: 1
+      - path: Pivot_L4
+        weight: 1
+      - path: Pivot_L5
+        weight: 1
+      - path: Pivot_R1
+        weight: 1
+      - path: Pivot_R2
+        weight: 1
+      - path: Pivot_R3A
+        weight: 1
+      - path: Pivot_R3B
+        weight: 1
+      - path: Pivot_R3C
+        weight: 1
+      - path: Pivot_R4
+        weight: 1
+      - path: Pivot_R5
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
